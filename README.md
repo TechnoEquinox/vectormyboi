@@ -10,12 +10,12 @@ A plug-in for wire-pod, and new features for the Anki Vector.
 To clone the repository, run the following command in your terminal:
 
 ```sh
-git clone https://github.com/TechnoEquinox/vectormyboi.git
+git clone https://github.com/TechnoEquinox/VectorPod.git
 ```
 
 Then navigate into the newly installed directory and run the install script:
 ```sh
-cd vectormyboi
+cd VectorPod
 ./install.sh
 ```
 You will be prompted to enter the administrator password to complete the setup. This will verify the files, find the wire-pod installation, update wire-pod, install the plug-in, and then configure the application. During this setup, you will be prompted for the following values:
